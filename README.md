@@ -1,7 +1,7 @@
 <h1>Consolen Budget-Programm in C#</h1>
 
 <h2>Aufgabe:</h2>
-<p>Erstelle ein Budget-Programm in C# welches die Einnahmen/Ausgaben überwacht und ein schönes Textfile erstellt inklusive der Zusammenrechnung aller Ausgaben/Einnahmen</p>
+<p>Erstelle ein Budget-Programm in C# welches die Einnahmen/Ausgaben überwacht und ein schönes Textfile erstellt inklusive der Zusammenrechnung aller Ausgaben/Einnahmen. Dein Code muss Kommentare beinhalten und sollte so effizient wie möglich sein.</p>
 
 <h2>Funktionen die du benötigen wirst:</h2>
 <ul>
