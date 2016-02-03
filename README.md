@@ -9,3 +9,6 @@
   <li>saveTextFile    //speichert die änderungen im textfile</li>
   <li>checkPath       //überprüft ob der eingegebene Pfad richtig ist</li>
 </ul> 
+
+<br/><br/>
+Hinweis alles was du nicht kannst kann Google also finde es heraus... 
