@@ -11,6 +11,7 @@
   <li>addSpent      //speichert eine neue Ausgabe für diesen Monat</li>
   <li>addIncome     //Speichtert ein neues Einkommen für diesen Monat</li>
   <li>calculate     //Rechnet alle Einnahmen und Ausgaben zusammen</li>
+  <li>writeToFile   //Schreibt alle Infos ins TextFile</li>
 </ul> 
 
 <br/><br/>
