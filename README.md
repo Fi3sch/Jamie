@@ -1,13 +1,16 @@
-<h1>Consolen TextEditor in C#</h1>
+<h1>Consolen Budget-Programm in C#</h1>
 
 <h2>Aufgabe:</h2>
-<p>Erstelle einen TextEditor mit C# der alles kann was ein Text Editor kann und lade dein Projekt hier auf GitHub hoch.</p>
+<p>Erstelle ein Budget-Programm in C# welches die Einnahmen/Ausgaben überwacht und ein schönes Textfile erstellt inklusive der Zusammenrechnung aller Ausgaben/Einnahmen</p>
+
 <h2>Funktionen die du benötigen wirst:</h2>
 <ul>
-  <li>newTextFile     //erstellt ein neues TextFile</li>
-  <li>loadTextFile    //öffnet ein TextFile</li>
-  <li>saveTextFile    //speichert die Änderungen im TextFile</li>
-  <li>checkPath       //überprüft ob der eingegebene Pfad richtig ist</li>
+  <li>newBudget     //erstellt ein neues TextFile</li>
+  <li>loadBudget    //öffnet ein TextFile</li>
+  <li>saveBudget    //Speichert das Budget</li>
+  <li>addSpent      //speichert eine neue Ausgabe für diesen Monat</li>
+  <li>addIncome     //Speichtert ein neues Einkommen für diesen Monat</li>
+  <li>calculate     //Rechnet alle Einnahmen und Ausgaben zusammen</li>
 </ul> 
 
 <br/><br/>
