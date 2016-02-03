@@ -6,7 +6,7 @@
 <ul>
   <li>newTextFile     //erstellt ein neues TextFile</li>
   <li>loadTextFile    //öffnet ein TextFile</li>
-  <li>saveTextFile    //speichert die änderungen im textfile</li>
+  <li>saveTextFile    //speichert die Änderungen im TextFile</li>
   <li>checkPath       //überprüft ob der eingegebene Pfad richtig ist</li>
 </ul> 
 
