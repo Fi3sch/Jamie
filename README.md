@@ -11,4 +11,4 @@
 </ul> 
 
 <br/><br/>
-Hinweis alles was du nicht kannst kann Google also finde es heraus... 
+<b>Hinweis: Alles was du nicht kannst kann Google also finde es heraus... </b>
