@@ -14,5 +14,5 @@
 </ul> 
 
 <br/><br/>
-<b>Ich habe ein Budget-TextFile von meiner Applikation erstellt dein TextFile muss gleich aussehen.</b>
+<b>Ich habe ein Budget-TextFile von meiner Applikation erstellt dein TextFile muss gleich aussehen.</b><br/><br/>
 <b>Hinweis: Alles was du nicht kannst kann Google also finde es heraus... </b>
