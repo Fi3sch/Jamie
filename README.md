@@ -17,3 +17,20 @@
 <br/><br/>
 <b>Ich habe ein Budget-TextFile von meiner Applikation erstellt dein TextFile muss gleich aussehen.</b><br/><br/>
 <b>Hinweis: Alles was du nicht kannst kann Google also finde es heraus... </b>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>GUI Text Editor in C#</h1>
+
+<h2>Aufgabe:</h2>
+<p>Erstelle einen simplen TextEditor der Files erstellen, laden bzw. öffnen, bearbeiten und speichern kann. Diese Aufgabe muss mit einem GUI(Graphical User Interface) gelöst werden.</p>
+
+<h2>Funktionen die du benötigen wirst:</h2>
+<ul>
+  <li>newFile       //erstellt ein neues TextFile</li>
+  <li>loadFile      //öffnet ein TextFile</li>
+  <li>saveFile      //Speichert das Budget</li>
+</ul> 
+
+
+
